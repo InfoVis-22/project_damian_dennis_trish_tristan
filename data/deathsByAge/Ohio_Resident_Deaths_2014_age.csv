@@ -1,0 +1,469 @@
+DeathCOD39ICDCode39Desc,DeathAgeGroupNCHSAgeNCHS,Deaths,Population,SORT
+Tuberculosis (A16-A19),< 1,0,138761,0
+Syphilis (A50-A53),< 1,0,138761,2
+Human immunodeficiency virus (HIV) disease (B20-B24),< 1,0,138761,4
+Malignant neoplasm of stomach (C16),< 1,0,138761,6
+Malignant neoplasms of colon rectum and anus (C18-C21),< 1,0,138761,8
+Malignant neoplasm of pancreas (C25),< 1,0,138761,10
+Malignant neoplasms of trachea bronchus and lung (C33-C34),< 1,0,138761,12
+Malignant neoplasm of breast (C50),< 1,0,138761,14
+Malignant neoplasms of cervix uteri corpus uteri and ovary (C53-C56),< 1,0,138761,16
+Malignant neoplasm of prostate (C61),< 1,0,138761,18
+Malignant neoplasms of urinary tract (C64-C68),< 1,0,138761,20
+Non-Hodgkin’s lymphoma (C82-C85),< 1,0,138761,22
+Leukemia (C91-C95),< 1,0,138761,24
+Other malignant neoplasms (C00-C15C17C22-C24C26-C32C37-C49C51-C52C57-C60C62-C63C69-C81C88C90C96-C97),< 1,1,138761,26
+Diabetes mellitus (E10-E14),< 1,0,138761,28
+Alzheimer’s disease (G30),< 1,0,138761,30
+Hypertensive heart disease with or without renal disease (I11I13),< 1,0,138761,32
+Ischemic heart diseases (I20-I25),< 1,0,138761,34
+Other diseases of heart (I00-I09I26-I51),< 1,12,138761,36
+Essential (primary) hypertension and hypertensive renal disease (I10I12),< 1,0,138761,38
+Cerebrovascular diseases (I60-I69),< 1,4,138761,40
+Atherosclerosis (I70),< 1,0,138761,42
+Other diseases of circulatory system (I71-I78),< 1,0,138761,44
+Influenza and pneumonia (J09-J18),< 1,9,138761,46
+Chronic lower respiratory diseases (J40-J47),< 1,0,138761,48
+Peptic ulcer (K25-K28),< 1,0,138761,50
+Chronic liver disease and cirrhosis (K70K73-K74),< 1,0,138761,52
+Nephritis nephrotic syndrome and nephrosis (N00-N07N17-N19N25-N27),< 1,4,138761,54
+Pregnancy childbirth and the puerperium (O00-O99),< 1,0,138761,56
+Certain conditions originating in the perinatal period (P00-P96),< 1,519,138761,58
+Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),< 1,192,138761,60
+Sudden infant death syndrome (R95),< 1,71,138761,62
+Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (excluding Sudden infant death syndrome) (R00-R94R96-R99),< 1,22,138761,64
+All other diseases (Residual) (A00-A09A20-A49A54-B19B25-B99D00-E07E15-G25G31-H93I80-J06J20-J39J60-K22K29-K66K71-K72K75-M99N10-N15N20-N23N28-N98U049U070U071),< 1,65,138761,66
+Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),< 1,1,138761,68
+All other and unspecified accidents and adverse effects (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9V90-X59Y40-Y86Y88),< 1,43,138761,70
+Intentional self-harm (suicide) (*U03X60-X84Y87.0),< 1,0,138761,72
+Assault (homicide) (*U01-*U02X85-Y09Y87.1),< 1,12,138761,74
+All other external causes (Y10-Y36Y87.2Y89),< 1,0,138761,76
+Tuberculosis (A16-A19),1-4,0,558568,80
+Syphilis (A50-A53),1-4,0,558568,82
+Human immunodeficiency virus (HIV) disease (B20-B24),1-4,0,558568,84
+Malignant neoplasm of stomach (C16),1-4,0,558568,86
+Malignant neoplasms of colon rectum and anus (C18-C21),1-4,0,558568,88
+Malignant neoplasm of pancreas (C25),1-4,0,558568,90
+Malignant neoplasms of trachea bronchus and lung (C33-C34),1-4,0,558568,92
+Malignant neoplasm of breast (C50),1-4,0,558568,94
+Malignant neoplasms of cervix uteri corpus uteri and ovary (C53-C56),1-4,0,558568,96
+Malignant neoplasm of prostate (C61),1-4,0,558568,98
+Malignant neoplasms of urinary tract (C64-C68),1-4,0,558568,100
+Non-Hodgkin’s lymphoma (C82-C85),1-4,0,558568,102
+Leukemia (C91-C95),1-4,7,558568,104
+Other malignant neoplasms (C00-C15C17C22-C24C26-C32C37-C49C51-C52C57-C60C62-C63C69-C81C88C90C96-C97),1-4,6,558568,106
+Diabetes mellitus (E10-E14),1-4,0,558568,108
+Alzheimer’s disease (G30),1-4,0,558568,110
+Hypertensive heart disease with or without renal disease (I11I13),1-4,0,558568,112
+Ischemic heart diseases (I20-I25),1-4,0,558568,114
+Other diseases of heart (I00-I09I26-I51),1-4,6,558568,116
+Essential (primary) hypertension and hypertensive renal disease (I10I12),1-4,0,558568,118
+Cerebrovascular diseases (I60-I69),1-4,3,558568,120
+Atherosclerosis (I70),1-4,0,558568,122
+Other diseases of circulatory system (I71-I78),1-4,0,558568,124
+Influenza and pneumonia (J09-J18),1-4,1,558568,126
+Chronic lower respiratory diseases (J40-J47),1-4,0,558568,128
+Peptic ulcer (K25-K28),1-4,0,558568,130
+Chronic liver disease and cirrhosis (K70K73-K74),1-4,0,558568,132
+Nephritis nephrotic syndrome and nephrosis (N00-N07N17-N19N25-N27),1-4,0,558568,134
+Pregnancy childbirth and the puerperium (O00-O99),1-4,0,558568,136
+Certain conditions originating in the perinatal period (P00-P96),1-4,3,558568,138
+Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),1-4,17,558568,140
+Sudden infant death syndrome (R95),1-4,0,558568,142
+Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (excluding Sudden infant death syndrome) (R00-R94R96-R99),1-4,4,558568,144
+All other diseases (Residual) (A00-A09A20-A49A54-B19B25-B99D00-E07E15-G25G31-H93I80-J06J20-J39J60-K22K29-K66K71-K72K75-M99N10-N15N20-N23N28-N98U049U070U071),1-4,39,558568,146
+Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),1-4,10,558568,148
+All other and unspecified accidents and adverse effects (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9V90-X59Y40-Y86Y88),1-4,23,558568,150
+Intentional self-harm (suicide) (*U03X60-X84Y87.0),1-4,0,558568,152
+Assault (homicide) (*U01-*U02X85-Y09Y87.1),1-4,11,558568,154
+All other external causes (Y10-Y36Y87.2Y89),1-4,1,558568,156
+Tuberculosis (A16-A19),5-14,0,1483558,160
+Syphilis (A50-A53),5-14,0,1483558,162
+Human immunodeficiency virus (HIV) disease (B20-B24),5-14,0,1483558,164
+Malignant neoplasm of stomach (C16),5-14,0,1483558,166
+Malignant neoplasms of colon rectum and anus (C18-C21),5-14,0,1483558,168
+Malignant neoplasm of pancreas (C25),5-14,1,1483558,170
+Malignant neoplasms of trachea bronchus and lung (C33-C34),5-14,0,1483558,172
+Malignant neoplasm of breast (C50),5-14,0,1483558,174
+Malignant neoplasms of cervix uteri corpus uteri and ovary (C53-C56),5-14,0,1483558,176
+Malignant neoplasm of prostate (C61),5-14,0,1483558,178
+Malignant neoplasms of urinary tract (C64-C68),5-14,2,1483558,180
+Non-Hodgkin’s lymphoma (C82-C85),5-14,3,1483558,182
+Leukemia (C91-C95),5-14,9,1483558,184
+Other malignant neoplasms (C00-C15C17C22-C24C26-C32C37-C49C51-C52C57-C60C62-C63C69-C81C88C90C96-C97),5-14,12,1483558,186
+Diabetes mellitus (E10-E14),5-14,4,1483558,188
+Alzheimer’s disease (G30),5-14,0,1483558,190
+Hypertensive heart disease with or without renal disease (I11I13),5-14,0,1483558,192
+Ischemic heart diseases (I20-I25),5-14,1,1483558,194
+Other diseases of heart (I00-I09I26-I51),5-14,8,1483558,196
+Essential (primary) hypertension and hypertensive renal disease (I10I12),5-14,0,1483558,198
+Cerebrovascular diseases (I60-I69),5-14,3,1483558,200
+Atherosclerosis (I70),5-14,0,1483558,202
+Other diseases of circulatory system (I71-I78),5-14,0,1483558,204
+Influenza and pneumonia (J09-J18),5-14,1,1483558,206
+Chronic lower respiratory diseases (J40-J47),5-14,7,1483558,208
+Peptic ulcer (K25-K28),5-14,0,1483558,210
+Chronic liver disease and cirrhosis (K70K73-K74),5-14,0,1483558,212
+Nephritis nephrotic syndrome and nephrosis (N00-N07N17-N19N25-N27),5-14,0,1483558,214
+Pregnancy childbirth and the puerperium (O00-O99),5-14,0,1483558,216
+Certain conditions originating in the perinatal period (P00-P96),5-14,1,1483558,218
+Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),5-14,9,1483558,220
+Sudden infant death syndrome (R95),5-14,0,1483558,222
+Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (excluding Sudden infant death syndrome) (R00-R94R96-R99),5-14,1,1483558,224
+All other diseases (Residual) (A00-A09A20-A49A54-B19B25-B99D00-E07E15-G25G31-H93I80-J06J20-J39J60-K22K29-K66K71-K72K75-M99N10-N15N20-N23N28-N98U049U070U071),5-14,31,1483558,226
+Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),5-14,20,1483558,228
+All other and unspecified accidents and adverse effects (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9V90-X59Y40-Y86Y88),5-14,23,1483558,230
+Intentional self-harm (suicide) (*U03X60-X84Y87.0),5-14,25,1483558,232
+Assault (homicide) (*U01-*U02X85-Y09Y87.1),5-14,18,1483558,234
+All other external causes (Y10-Y36Y87.2Y89),5-14,7,1483558,236
+Tuberculosis (A16-A19),15-24,0,1574622,240
+Syphilis (A50-A53),15-24,0,1574622,242
+Human immunodeficiency virus (HIV) disease (B20-B24),15-24,3,1574622,244
+Malignant neoplasm of stomach (C16),15-24,0,1574622,246
+Malignant neoplasms of colon rectum and anus (C18-C21),15-24,2,1574622,248
+Malignant neoplasm of pancreas (C25),15-24,0,1574622,250
+Malignant neoplasms of trachea bronchus and lung (C33-C34),15-24,0,1574622,252
+Malignant neoplasm of breast (C50),15-24,0,1574622,254
+Malignant neoplasms of cervix uteri corpus uteri and ovary (C53-C56),15-24,2,1574622,256
+Malignant neoplasm of prostate (C61),15-24,0,1574622,258
+Malignant neoplasms of urinary tract (C64-C68),15-24,1,1574622,260
+Non-Hodgkin’s lymphoma (C82-C85),15-24,4,1574622,262
+Leukemia (C91-C95),15-24,9,1574622,264
+Other malignant neoplasms (C00-C15C17C22-C24C26-C32C37-C49C51-C52C57-C60C62-C63C69-C81C88C90C96-C97),15-24,33,1574622,266
+Diabetes mellitus (E10-E14),15-24,9,1574622,268
+Alzheimer’s disease (G30),15-24,0,1574622,270
+Hypertensive heart disease with or without renal disease (I11I13),15-24,3,1574622,272
+Ischemic heart diseases (I20-I25),15-24,2,1574622,274
+Other diseases of heart (I00-I09I26-I51),15-24,31,1574622,276
+Essential (primary) hypertension and hypertensive renal disease (I10I12),15-24,0,1574622,278
+Cerebrovascular diseases (I60-I69),15-24,6,1574622,280
+Atherosclerosis (I70),15-24,0,1574622,282
+Other diseases of circulatory system (I71-I78),15-24,0,1574622,284
+Influenza and pneumonia (J09-J18),15-24,5,1574622,286
+Chronic lower respiratory diseases (J40-J47),15-24,5,1574622,288
+Peptic ulcer (K25-K28),15-24,0,1574622,290
+Chronic liver disease and cirrhosis (K70K73-K74),15-24,1,1574622,292
+Nephritis nephrotic syndrome and nephrosis (N00-N07N17-N19N25-N27),15-24,6,1574622,294
+Pregnancy childbirth and the puerperium (O00-O99),15-24,7,1574622,296
+Certain conditions originating in the perinatal period (P00-P96),15-24,0,1574622,298
+Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),15-24,14,1574622,300
+Sudden infant death syndrome (R95),15-24,0,1574622,302
+Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (excluding Sudden infant death syndrome) (R00-R94R96-R99),15-24,10,1574622,304
+All other diseases (Residual) (A00-A09A20-A49A54-B19B25-B99D00-E07E15-G25G31-H93I80-J06J20-J39J60-K22K29-K66K71-K72K75-M99N10-N15N20-N23N28-N98U049U070U071),15-24,87,1574622,306
+Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),15-24,202,1574622,308
+All other and unspecified accidents and adverse effects (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9V90-X59Y40-Y86Y88),15-24,260,1574622,310
+Intentional self-harm (suicide) (*U03X60-X84Y87.0),15-24,172,1574622,312
+Assault (homicide) (*U01-*U02X85-Y09Y87.1),15-24,151,1574622,314
+All other external causes (Y10-Y36Y87.2Y89),15-24,11,1574622,316
+Tuberculosis (A16-A19),25-34,0,1470334,320
+Syphilis (A50-A53),25-34,0,1470334,322
+Human immunodeficiency virus (HIV) disease (B20-B24),25-34,17,1470334,324
+Malignant neoplasm of stomach (C16),25-34,4,1470334,326
+Malignant neoplasms of colon rectum and anus (C18-C21),25-34,10,1470334,328
+Malignant neoplasm of pancreas (C25),25-34,2,1470334,330
+Malignant neoplasms of trachea bronchus and lung (C33-C34),25-34,8,1470334,332
+Malignant neoplasm of breast (C50),25-34,16,1470334,334
+Malignant neoplasms of cervix uteri corpus uteri and ovary (C53-C56),25-34,10,1470334,336
+Malignant neoplasm of prostate (C61),25-34,0,1470334,338
+Malignant neoplasms of urinary tract (C64-C68),25-34,1,1470334,340
+Non-Hodgkin’s lymphoma (C82-C85),25-34,4,1470334,342
+Leukemia (C91-C95),25-34,11,1470334,344
+Other malignant neoplasms (C00-C15C17C22-C24C26-C32C37-C49C51-C52C57-C60C62-C63C69-C81C88C90C96-C97),25-34,63,1470334,346
+Diabetes mellitus (E10-E14),25-34,27,1470334,348
+Alzheimer’s disease (G30),25-34,0,1470334,350
+Hypertensive heart disease with or without renal disease (I11I13),25-34,21,1470334,352
+Ischemic heart diseases (I20-I25),25-34,45,1470334,354
+Other diseases of heart (I00-I09I26-I51),25-34,84,1470334,356
+Essential (primary) hypertension and hypertensive renal disease (I10I12),25-34,4,1470334,358
+Cerebrovascular diseases (I60-I69),25-34,20,1470334,360
+Atherosclerosis (I70),25-34,0,1470334,362
+Other diseases of circulatory system (I71-I78),25-34,7,1470334,364
+Influenza and pneumonia (J09-J18),25-34,22,1470334,366
+Chronic lower respiratory diseases (J40-J47),25-34,13,1470334,368
+Peptic ulcer (K25-K28),25-34,1,1470334,370
+Chronic liver disease and cirrhosis (K70K73-K74),25-34,15,1470334,372
+Nephritis nephrotic syndrome and nephrosis (N00-N07N17-N19N25-N27),25-34,11,1470334,374
+Pregnancy childbirth and the puerperium (O00-O99),25-34,9,1470334,376
+Certain conditions originating in the perinatal period (P00-P96),25-34,0,1470334,378
+Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),25-34,17,1470334,380
+Sudden infant death syndrome (R95),25-34,0,1470334,382
+Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (excluding Sudden infant death syndrome) (R00-R94R96-R99),25-34,22,1470334,384
+All other diseases (Residual) (A00-A09A20-A49A54-B19B25-B99D00-E07E15-G25G31-H93I80-J06J20-J39J60-K22K29-K66K71-K72K75-M99N10-N15N20-N23N28-N98U049U070U071),25-34,210,1470334,386
+Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),25-34,190,1470334,388
+All other and unspecified accidents and adverse effects (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9V90-X59Y40-Y86Y88),25-34,731,1470334,390
+Intentional self-harm (suicide) (*U03X60-X84Y87.0),25-34,221,1470334,392
+Assault (homicide) (*U01-*U02X85-Y09Y87.1),25-34,157,1470334,394
+All other external causes (Y10-Y36Y87.2Y89),25-34,21,1470334,396
+Tuberculosis (A16-A19),35-44,0,1406015,400
+Syphilis (A50-A53),35-44,0,1406015,402
+Human immunodeficiency virus (HIV) disease (B20-B24),35-44,30,1406015,404
+Malignant neoplasm of stomach (C16),35-44,5,1406015,406
+Malignant neoplasms of colon rectum and anus (C18-C21),35-44,51,1406015,408
+Malignant neoplasm of pancreas (C25),35-44,17,1406015,410
+Malignant neoplasms of trachea bronchus and lung (C33-C34),35-44,58,1406015,412
+Malignant neoplasm of breast (C50),35-44,88,1406015,414
+Malignant neoplasms of cervix uteri corpus uteri and ovary (C53-C56),35-44,53,1406015,416
+Malignant neoplasm of prostate (C61),35-44,0,1406015,418
+Malignant neoplasms of urinary tract (C64-C68),35-44,13,1406015,420
+Non-Hodgkin’s lymphoma (C82-C85),35-44,12,1406015,422
+Leukemia (C91-C95),35-44,24,1406015,424
+Other malignant neoplasms (C00-C15C17C22-C24C26-C32C37-C49C51-C52C57-C60C62-C63C69-C81C88C90C96-C97),35-44,156,1406015,426
+Diabetes mellitus (E10-E14),35-44,95,1406015,428
+Alzheimer’s disease (G30),35-44,0,1406015,430
+Hypertensive heart disease with or without renal disease (I11I13),35-44,81,1406015,432
+Ischemic heart diseases (I20-I25),35-44,201,1406015,434
+Other diseases of heart (I00-I09I26-I51),35-44,158,1406015,436
+Essential (primary) hypertension and hypertensive renal disease (I10I12),35-44,13,1406015,438
+Cerebrovascular diseases (I60-I69),35-44,61,1406015,440
+Atherosclerosis (I70),35-44,0,1406015,442
+Other diseases of circulatory system (I71-I78),35-44,18,1406015,444
+Influenza and pneumonia (J09-J18),35-44,30,1406015,446
+Chronic lower respiratory diseases (J40-J47),35-44,26,1406015,448
+Peptic ulcer (K25-K28),35-44,2,1406015,450
+Chronic liver disease and cirrhosis (K70K73-K74),35-44,86,1406015,452
+Nephritis nephrotic syndrome and nephrosis (N00-N07N17-N19N25-N27),35-44,32,1406015,454
+Pregnancy childbirth and the puerperium (O00-O99),35-44,5,1406015,456
+Certain conditions originating in the perinatal period (P00-P96),35-44,0,1406015,458
+Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),35-44,18,1406015,460
+Sudden infant death syndrome (R95),35-44,0,1406015,462
+Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (excluding Sudden infant death syndrome) (R00-R94R96-R99),35-44,24,1406015,464
+All other diseases (Residual) (A00-A09A20-A49A54-B19B25-B99D00-E07E15-G25G31-H93I80-J06J20-J39J60-K22K29-K66K71-K72K75-M99N10-N15N20-N23N28-N98U049U070U071),35-44,387,1406015,466
+Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),35-44,145,1406015,468
+All other and unspecified accidents and adverse effects (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9V90-X59Y40-Y86Y88),35-44,759,1406015,470
+Intentional self-harm (suicide) (*U03X60-X84Y87.0),35-44,258,1406015,472
+Assault (homicide) (*U01-*U02X85-Y09Y87.1),35-44,82,1406015,474
+All other external causes (Y10-Y36Y87.2Y89),35-44,23,1406015,476
+Tuberculosis (A16-A19),45-54,2,1599758,480
+Syphilis (A50-A53),45-54,0,1599758,482
+Human immunodeficiency virus (HIV) disease (B20-B24),45-54,56,1599758,484
+Malignant neoplasm of stomach (C16),45-54,40,1599758,486
+Malignant neoplasms of colon rectum and anus (C18-C21),45-54,201,1599758,488
+Malignant neoplasm of pancreas (C25),45-54,120,1599758,490
+Malignant neoplasms of trachea bronchus and lung (C33-C34),45-54,537,1599758,492
+Malignant neoplasm of breast (C50),45-54,186,1599758,494
+Malignant neoplasms of cervix uteri corpus uteri and ovary (C53-C56),45-54,120,1599758,496
+Malignant neoplasm of prostate (C61),45-54,24,1599758,498
+Malignant neoplasms of urinary tract (C64-C68),45-54,65,1599758,500
+Non-Hodgkin’s lymphoma (C82-C85),45-54,44,1599758,502
+Leukemia (C91-C95),45-54,50,1599758,504
+Other malignant neoplasms (C00-C15C17C22-C24C26-C32C37-C49C51-C52C57-C60C62-C63C69-C81C88C90C96-C97),45-54,573,1599758,506
+Diabetes mellitus (E10-E14),45-54,275,1599758,508
+Alzheimer’s disease (G30),45-54,2,1599758,510
+Hypertensive heart disease with or without renal disease (I11I13),45-54,193,1599758,512
+Ischemic heart diseases (I20-I25),45-54,890,1599758,514
+Other diseases of heart (I00-I09I26-I51),45-54,365,1599758,516
+Essential (primary) hypertension and hypertensive renal disease (I10I12),45-54,59,1599758,518
+Cerebrovascular diseases (I60-I69),45-54,174,1599758,520
+Atherosclerosis (I70),45-54,4,1599758,522
+Other diseases of circulatory system (I71-I78),45-54,50,1599758,524
+Influenza and pneumonia (J09-J18),45-54,120,1599758,526
+Chronic lower respiratory diseases (J40-J47),45-54,245,1599758,528
+Peptic ulcer (K25-K28),45-54,7,1599758,530
+Chronic liver disease and cirrhosis (K70K73-K74),45-54,319,1599758,532
+Nephritis nephrotic syndrome and nephrosis (N00-N07N17-N19N25-N27),45-54,84,1599758,534
+Pregnancy childbirth and the puerperium (O00-O99),45-54,1,1599758,536
+Certain conditions originating in the perinatal period (P00-P96),45-54,0,1599758,538
+Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),45-54,28,1599758,540
+Sudden infant death syndrome (R95),45-54,0,1599758,542
+Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (excluding Sudden infant death syndrome) (R00-R94R96-R99),45-54,64,1599758,544
+All other diseases (Residual) (A00-A09A20-A49A54-B19B25-B99D00-E07E15-G25G31-H93I80-J06J20-J39J60-K22K29-K66K71-K72K75-M99N10-N15N20-N23N28-N98U049U070U071),45-54,1059,1599758,546
+Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),45-54,174,1599758,548
+All other and unspecified accidents and adverse effects (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9V90-X59Y40-Y86Y88),45-54,809,1599758,550
+Intentional self-harm (suicide) (*U03X60-X84Y87.0),45-54,295,1599758,552
+Assault (homicide) (*U01-*U02X85-Y09Y87.1),45-54,77,1599758,554
+All other external causes (Y10-Y36Y87.2Y89),45-54,28,1599758,556
+Tuberculosis (A16-A19),55-64,3,1574673,560
+Syphilis (A50-A53),55-64,0,1574673,562
+Human immunodeficiency virus (HIV) disease (B20-B24),55-64,34,1574673,564
+Malignant neoplasm of stomach (C16),55-64,68,1574673,566
+Malignant neoplasms of colon rectum and anus (C18-C21),55-64,471,1574673,568
+Malignant neoplasm of pancreas (C25),55-64,342,1574673,570
+Malignant neoplasms of trachea bronchus and lung (C33-C34),55-64,1541,1574673,572
+Malignant neoplasm of breast (C50),55-64,367,1574673,574
+Malignant neoplasms of cervix uteri corpus uteri and ovary (C53-C56),55-64,262,1574673,576
+Malignant neoplasm of prostate (C61),55-64,109,1574673,578
+Malignant neoplasms of urinary tract (C64-C68),55-64,212,1574673,580
+Non-Hodgkin’s lymphoma (C82-C85),55-64,130,1574673,582
+Leukemia (C91-C95),55-64,119,1574673,584
+Other malignant neoplasms (C00-C15C17C22-C24C26-C32C37-C49C51-C52C57-C60C62-C63C69-C81C88C90C96-C97),55-64,1506,1574673,586
+Diabetes mellitus (E10-E14),55-64,638,1574673,588
+Alzheimer’s disease (G30),55-64,40,1574673,590
+Hypertensive heart disease with or without renal disease (I11I13),55-64,313,1574673,592
+Ischemic heart diseases (I20-I25),55-64,2137,1574673,594
+Other diseases of heart (I00-I09I26-I51),55-64,831,1574673,596
+Essential (primary) hypertension and hypertensive renal disease (I10I12),55-64,136,1574673,598
+Cerebrovascular diseases (I60-I69),55-64,481,1574673,600
+Atherosclerosis (I70),55-64,19,1574673,602
+Other diseases of circulatory system (I71-I78),55-64,120,1574673,604
+Influenza and pneumonia (J09-J18),55-64,229,1574673,606
+Chronic lower respiratory diseases (J40-J47),55-64,850,1574673,608
+Peptic ulcer (K25-K28),55-64,25,1574673,610
+Chronic liver disease and cirrhosis (K70K73-K74),55-64,492,1574673,612
+Nephritis nephrotic syndrome and nephrosis (N00-N07N17-N19N25-N27),55-64,191,1574673,614
+Pregnancy childbirth and the puerperium (O00-O99),55-64,0,1574673,616
+Certain conditions originating in the perinatal period (P00-P96),55-64,0,1574673,618
+Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),55-64,54,1574673,620
+Sudden infant death syndrome (R95),55-64,0,1574673,622
+Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (excluding Sudden infant death syndrome) (R00-R94R96-R99),55-64,117,1574673,624
+All other diseases (Residual) (A00-A09A20-A49A54-B19B25-B99D00-E07E15-G25G31-H93I80-J06J20-J39J60-K22K29-K66K71-K72K75-M99N10-N15N20-N23N28-N98U049U070U071),55-64,2284,1574673,626
+Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),55-64,136,1574673,628
+All other and unspecified accidents and adverse effects (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9V90-X59Y40-Y86Y88),55-64,666,1574673,630
+Intentional self-harm (suicide) (*U03X60-X84Y87.0),55-64,242,1574673,632
+Assault (homicide) (*U01-*U02X85-Y09Y87.1),55-64,39,1574673,634
+All other external causes (Y10-Y36Y87.2Y89),55-64,17,1574673,636
+Tuberculosis (A16-A19),65-74,2,1006339,640
+Syphilis (A50-A53),65-74,0,1006339,642
+Human immunodeficiency virus (HIV) disease (B20-B24),65-74,11,1006339,644
+Malignant neoplasm of stomach (C16),65-74,93,1006339,646
+Malignant neoplasms of colon rectum and anus (C18-C21),65-74,507,1006339,648
+Malignant neoplasm of pancreas (C25),65-74,476,1006339,650
+Malignant neoplasms of trachea bronchus and lung (C33-C34),65-74,2270,1006339,652
+Malignant neoplasm of breast (C50),65-74,432,1006339,654
+Malignant neoplasms of cervix uteri corpus uteri and ovary (C53-C56),65-74,335,1006339,656
+Malignant neoplasm of prostate (C61),65-74,265,1006339,658
+Malignant neoplasms of urinary tract (C64-C68),65-74,332,1006339,660
+Non-Hodgkin’s lymphoma (C82-C85),65-74,231,1006339,662
+Leukemia (C91-C95),65-74,227,1006339,664
+Other malignant neoplasms (C00-C15C17C22-C24C26-C32C37-C49C51-C52C57-C60C62-C63C69-C81C88C90C96-C97),65-74,1685,1006339,666
+Diabetes mellitus (E10-E14),65-74,893,1006339,668
+Alzheimer’s disease (G30),65-74,205,1006339,670
+Hypertensive heart disease with or without renal disease (I11I13),65-74,231,1006339,672
+Ischemic heart diseases (I20-I25),65-74,2960,1006339,674
+Other diseases of heart (I00-I09I26-I51),65-74,1229,1006339,676
+Essential (primary) hypertension and hypertensive renal disease (I10I12),65-74,182,1006339,678
+Cerebrovascular diseases (I60-I69),65-74,878,1006339,680
+Atherosclerosis (I70),65-74,26,1006339,682
+Other diseases of circulatory system (I71-I78),65-74,201,1006339,684
+Influenza and pneumonia (J09-J18),65-74,360,1006339,686
+Chronic lower respiratory diseases (J40-J47),65-74,1682,1006339,688
+Peptic ulcer (K25-K28),65-74,16,1006339,690
+Chronic liver disease and cirrhosis (K70K73-K74),65-74,307,1006339,692
+Nephritis nephrotic syndrome and nephrosis (N00-N07N17-N19N25-N27),65-74,347,1006339,694
+Pregnancy childbirth and the puerperium (O00-O99),65-74,0,1006339,696
+Certain conditions originating in the perinatal period (P00-P96),65-74,0,1006339,698
+Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),65-74,17,1006339,700
+Sudden infant death syndrome (R95),65-74,0,1006339,702
+Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (excluding Sudden infant death syndrome) (R00-R94R96-R99),65-74,141,1006339,704
+All other diseases (Residual) (A00-A09A20-A49A54-B19B25-B99D00-E07E15-G25G31-H93I80-J06J20-J39J60-K22K29-K66K71-K72K75-M99N10-N15N20-N23N28-N98U049U070U071),65-74,3393,1006339,706
+Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),65-74,104,1006339,708
+All other and unspecified accidents and adverse effects (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9V90-X59Y40-Y86Y88),65-74,379,1006339,710
+Intentional self-harm (suicide) (*U03X60-X84Y87.0),65-74,148,1006339,712
+Assault (homicide) (*U01-*U02X85-Y09Y87.1),65-74,19,1006339,714
+All other external causes (Y10-Y36Y87.2Y89),65-74,4,1006339,716
+Tuberculosis (A16-A19),75-84,2,542738,720
+Syphilis (A50-A53),75-84,0,542738,722
+Human immunodeficiency virus (HIV) disease (B20-B24),75-84,0,542738,724
+Malignant neoplasm of stomach (C16),75-84,119,542738,726
+Malignant neoplasms of colon rectum and anus (C18-C21),75-84,552,542738,728
+Malignant neoplasm of pancreas (C25),75-84,452,542738,730
+Malignant neoplasms of trachea bronchus and lung (C33-C34),75-84,1942,542738,732
+Malignant neoplasm of breast (C50),75-84,366,542738,734
+Malignant neoplasms of cervix uteri corpus uteri and ovary (C53-C56),75-84,236,542738,736
+Malignant neoplasm of prostate (C61),75-84,349,542738,738
+Malignant neoplasms of urinary tract (C64-C68),75-84,365,542738,740
+Non-Hodgkin’s lymphoma (C82-C85),75-84,320,542738,742
+Leukemia (C91-C95),75-84,288,542738,744
+Other malignant neoplasms (C00-C15C17C22-C24C26-C32C37-C49C51-C52C57-C60C62-C63C69-C81C88C90C96-C97),75-84,1558,542738,746
+Diabetes mellitus (E10-E14),75-84,944,542738,748
+Alzheimer’s disease (G30),75-84,1134,542738,750
+Hypertensive heart disease with or without renal disease (I11I13),75-84,289,542738,752
+Ischemic heart diseases (I20-I25),75-84,4003,542738,754
+Other diseases of heart (I00-I09I26-I51),75-84,2244,542738,756
+Essential (primary) hypertension and hypertensive renal disease (I10I12),75-84,331,542738,758
+Cerebrovascular diseases (I60-I69),75-84,1618,542738,760
+Atherosclerosis (I70),75-84,67,542738,762
+Other diseases of circulatory system (I71-I78),75-84,214,542738,764
+Influenza and pneumonia (J09-J18),75-84,589,542738,766
+Chronic lower respiratory diseases (J40-J47),75-84,2172,542738,768
+Peptic ulcer (K25-K28),75-84,41,542738,770
+Chronic liver disease and cirrhosis (K70K73-K74),75-84,168,542738,772
+Nephritis nephrotic syndrome and nephrosis (N00-N07N17-N19N25-N27),75-84,600,542738,774
+Pregnancy childbirth and the puerperium (O00-O99),75-84,0,542738,776
+Certain conditions originating in the perinatal period (P00-P96),75-84,0,542738,778
+Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),75-84,16,542738,780
+Sudden infant death syndrome (R95),75-84,0,542738,782
+Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (excluding Sudden infant death syndrome) (R00-R94R96-R99),75-84,212,542738,784
+All other diseases (Residual) (A00-A09A20-A49A54-B19B25-B99D00-E07E15-G25G31-H93I80-J06J20-J39J60-K22K29-K66K71-K72K75-M99N10-N15N20-N23N28-N98U049U070U071),75-84,5699,542738,786
+Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),75-84,96,542738,788
+All other and unspecified accidents and adverse effects (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9V90-X59Y40-Y86Y88),75-84,611,542738,790
+Intentional self-harm (suicide) (*U03X60-X84Y87.0),75-84,87,542738,792
+Assault (homicide) (*U01-*U02X85-Y09Y87.1),75-84,6,542738,794
+All other external causes (Y10-Y36Y87.2Y89),75-84,6,542738,796
+Tuberculosis (A16-A19),85+,5,251207,800
+Syphilis (A50-A53),85+,0,251207,802
+Human immunodeficiency virus (HIV) disease (B20-B24),85+,1,251207,804
+Malignant neoplasm of stomach (C16),85+,90,251207,806
+Malignant neoplasms of colon rectum and anus (C18-C21),85+,492,251207,808
+Malignant neoplasm of pancreas (C25),85+,277,251207,810
+Malignant neoplasms of trachea bronchus and lung (C33-C34),85+,796,251207,812
+Malignant neoplasm of breast (C50),85+,312,251207,814
+Malignant neoplasms of cervix uteri corpus uteri and ovary (C53-C56),85+,146,251207,816
+Malignant neoplasm of prostate (C61),85+,325,251207,818
+Malignant neoplasms of urinary tract (C64-C68),85+,319,251207,820
+Non-Hodgkin’s lymphoma (C82-C85),85+,212,251207,822
+Leukemia (C91-C95),85+,212,251207,824
+Other malignant neoplasms (C00-C15C17C22-C24C26-C32C37-C49C51-C52C57-C60C62-C63C69-C81C88C90C96-C97),85+,1025,251207,826
+Diabetes mellitus (E10-E14),85+,751,251207,828
+Alzheimer’s disease (G30),85+,2697,251207,830
+Hypertensive heart disease with or without renal disease (I11I13),85+,650,251207,832
+Ischemic heart diseases (I20-I25),85+,5877,251207,834
+Other diseases of heart (I00-I09I26-I51),85+,4072,251207,836
+Essential (primary) hypertension and hypertensive renal disease (I10I12),85+,635,251207,838
+Cerebrovascular diseases (I60-I69),85+,2528,251207,840
+Atherosclerosis (I70),85+,168,251207,842
+Other diseases of circulatory system (I71-I78),85+,264,251207,844
+Influenza and pneumonia (J09-J18),85+,1072,251207,846
+Chronic lower respiratory diseases (J40-J47),85+,1754,251207,848
+Peptic ulcer (K25-K28),85+,45,251207,850
+Chronic liver disease and cirrhosis (K70K73-K74),85+,65,251207,852
+Nephritis nephrotic syndrome and nephrosis (N00-N07N17-N19N25-N27),85+,718,251207,854
+Pregnancy childbirth and the puerperium (O00-O99),85+,0,251207,856
+Certain conditions originating in the perinatal period (P00-P96),85+,0,251207,858
+Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),85+,12,251207,860
+Sudden infant death syndrome (R95),85+,0,251207,862
+Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (excluding Sudden infant death syndrome) (R00-R94R96-R99),85+,596,251207,864
+All other diseases (Residual) (A00-A09A20-A49A54-B19B25-B99D00-E07E15-G25G31-H93I80-J06J20-J39J60-K22K29-K66K71-K72K75-M99N10-N15N20-N23N28-N98U049U070U071),85+,9154,251207,866
+Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),85+,40,251207,868
+All other and unspecified accidents and adverse effects (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9V90-X59Y40-Y86Y88),85+,837,251207,870
+Intentional self-harm (suicide) (*U03X60-X84Y87.0),85+,37,251207,872
+Assault (homicide) (*U01-*U02X85-Y09Y87.1),85+,5,251207,874
+All other external causes (Y10-Y36Y87.2Y89),85+,1,251207,876
+Tuberculosis (A16-A19),Unk,0,0,880
+Syphilis (A50-A53),Unk,0,0,882
+Human immunodeficiency virus (HIV) disease (B20-B24),Unk,0,0,884
+Malignant neoplasm of stomach (C16),Unk,1,0,886
+Malignant neoplasms of colon rectum and anus (C18-C21),Unk,1,0,888
+Malignant neoplasm of pancreas (C25),Unk,1,0,890
+Malignant neoplasms of trachea bronchus and lung (C33-C34),Unk,7,0,892
+Malignant neoplasm of breast (C50),Unk,4,0,894
+Malignant neoplasms of cervix uteri corpus uteri and ovary (C53-C56),Unk,0,0,896
+Malignant neoplasm of prostate (C61),Unk,0,0,898
+Malignant neoplasms of urinary tract (C64-C68),Unk,0,0,900
+Non-Hodgkin’s lymphoma (C82-C85),Unk,2,0,902
+Leukemia (C91-C95),Unk,2,0,904
+Other malignant neoplasms (C00-C15C17C22-C24C26-C32C37-C49C51-C52C57-C60C62-C63C69-C81C88C90C96-C97),Unk,10,0,906
+Diabetes mellitus (E10-E14),Unk,3,0,908
+Alzheimer’s disease (G30),Unk,2,0,910
+Hypertensive heart disease with or without renal disease (I11I13),Unk,7,0,912
+Ischemic heart diseases (I20-I25),Unk,23,0,914
+Other diseases of heart (I00-I09I26-I51),Unk,17,0,916
+Essential (primary) hypertension and hypertensive renal disease (I10I12),Unk,1,0,918
+Cerebrovascular diseases (I60-I69),Unk,11,0,920
+Atherosclerosis (I70),Unk,0,0,922
+Other diseases of circulatory system (I71-I78),Unk,7,0,924
+Influenza and pneumonia (J09-J18),Unk,3,0,926
+Chronic lower respiratory diseases (J40-J47),Unk,7,0,928
+Peptic ulcer (K25-K28),Unk,0,0,930
+Chronic liver disease and cirrhosis (K70K73-K74),Unk,2,0,932
+Nephritis nephrotic syndrome and nephrosis (N00-N07N17-N19N25-N27),Unk,5,0,934
+Pregnancy childbirth and the puerperium (O00-O99),Unk,0,0,936
+Certain conditions originating in the perinatal period (P00-P96),Unk,0,0,938
+Congenital malformations deformations and chromosomal abnormalities (Q00-Q99),Unk,1,0,940
+Sudden infant death syndrome (R95),Unk,0,0,942
+Symptoms signs and abnormal clinical and laboratory findings not elsewhere classified (excluding Sudden infant death syndrome) (R00-R94R96-R99),Unk,1,0,944
+All other diseases (Residual) (A00-A09A20-A49A54-B19B25-B99D00-E07E15-G25G31-H93I80-J06J20-J39J60-K22K29-K66K71-K72K75-M99N10-N15N20-N23N28-N98U049U070U071),Unk,30,0,946
+Motor vehicle accidents (V02-V04V09.0V09.2V12-V14V19.0-V19.2V19.4-V19.6V20-V79V80.3-V80.5V81.0-V81.1V82.0-V82.1V83-V86V87.0-V87.8V88.0-V88.8V89.0V89.2),Unk,11,0,948
+All other and unspecified accidents and adverse effects (V01V05-V06V09.1V09.3-V09.9V10-V11V15-V18V19.3V19.8-V19.9V80.0-V80.2V80.6-V80.9V81.2-V81.9V82.2-V82.9V87.9V88.9V89.1V89.3V89.9V90-X59Y40-Y86Y88),Unk,15,0,950
+Intentional self-harm (suicide) (*U03X60-X84Y87.0),Unk,3,0,952
+Assault (homicide) (*U01-*U02X85-Y09Y87.1),Unk,1,0,954
+All other external causes (Y10-Y36Y87.2Y89),Unk,0,0,956

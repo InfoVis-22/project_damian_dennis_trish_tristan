@@ -1,4 +1,4 @@
-d3.csv('deathsByCounty/Ohio_Resident_Deaths_2007_cty.csv')
+d3.csv('data/deathsByCounty/Ohio_Resident_Deaths_2007_cty.csv')
     .then(data2007 => {
       dataInFcn(data2007);
     })
@@ -17,6 +17,9 @@ function dataInFcn(data) {
   data2007.forEach(function (d) { 
     d.Deaths = +d.Deaths;
     d.Population = +d.Population;
+    d.pctDeaths = d.Deaths/d.Population * 100;
+    delete d.SORT;
+
     //data2007.sort = data2007.Deaths/data2007.Population *100;
     //data2007.add(pctDeaths: data2007.Deaths/data2007.Population *100);
   });
