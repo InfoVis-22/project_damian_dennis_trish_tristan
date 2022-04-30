@@ -9,7 +9,7 @@
 
 Promise.all([
   d3.csv('data/deathsByCounty/Ohio_Resident_Deaths_2007_cty.csv'),
-  d3.csv('data/demographics/countyHealthRatings2010.csv')])
+  d3.csv('data/demographics/countyHealthRatings2015.csv')])
   .then(([data1,data2]) => {
     dataInFcn(data1,data2);
   })
@@ -41,7 +41,30 @@ function dataInFcn(data,demog) {
   
   //get deaths per 100,000 people, in each county, to account for population
   let deathsRespiratoryGraphArray = data2007.map(d=>Math.round(d.Deaths/d.Population *100000));
-  console.log(deathsRespiratoryGraphArray);
+  //console.log(deathsRespiratoryGraphArray);
+
+  //Now, process demographics data. It's got a lot of columns!!!! Also for all US.
+  //most of cols we don't want.
+  //Rename cols of use, and turn numbers into numbers.
+  //pct rural, medIncome, uninsured, seniors: starts with 2015, use that for Deaths 2007-2015.
+  const demogData = demog.forEach(function(d) {
+    //rename key columns, turn into 
+    d.rural = +d['% Rural raw value'];
+    d.medIncome = +d['Median household income raw value'];
+    d.uninsured = +d['Uninsured adults raw value'];
+    d.seniors = +d['% 65 and older raw value'];
+  });
+  //for each county
+  demogOhCty = demog.filter(d=>d['State Abbreviation']=='OH' && d.Name != 'Ohio');
+  ruralArray = demogOhCty.map(d=>Math.round(d.rural*100));
+  medIncomeArray = demogOhCty.map(d=>Math.round(d.medIncome)*100);
+  uninsuredArray = demogOhCty.map(d=>Math.round(d.uninsured)*100);
+  seniorsArray = demogOhCty.map(d=>Math.round(d.seniors)*100);
+
+  //summary numbers for all of ohio
+  demogAllOH = demog.filter(d=>d['State Abbreviation']=='OH' && d.Name == 'Ohio');
+
+  console.log(ruralArray);
 
   //function to actually make the graphs
   drawData(countiesGraphArray, deathsRespiratoryGraphArray);
